@@ -1,0 +1,7260 @@
+<file>
+  <SESSION_INFO>
+    <start_time>demo sales SERIE A 2023-2024 [FULL TRAINING] - 2023-08-26 18:05:52 [drill: None]</start_time>
+  </SESSION_INFO>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>1</ID>
+      <start>2205.427</start>
+      <end>2211.427</end>
+      <code>SPEED EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.150</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>2</ID>
+      <start>2694.487</start>
+      <end>2700.487</end>
+      <code>SPEED EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>26.671</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>3</ID>
+      <start>3096.097</start>
+      <end>3102.097</end>
+      <code>SPEED EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.590</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>4</ID>
+      <start>3360.206</start>
+      <end>3366.206</end>
+      <code>SPEED EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.598</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>5</ID>
+      <start>3576.906</start>
+      <end>3582.906</end>
+      <code>SPEED EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.566</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>6</ID>
+      <start>3671.286</start>
+      <end>3677.286</end>
+      <code>SPEED EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>25.888</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>7</ID>
+      <start>3951.896</start>
+      <end>3957.896</end>
+      <code>SPEED EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>25.344</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>8</ID>
+      <start>1021.169</start>
+      <end>1027.169</end>
+      <code>SPEED EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.126</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>9</ID>
+      <start>1110.048</start>
+      <end>1116.048</end>
+      <code>SPEED EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>25.950</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>10</ID>
+      <start>1114.998</start>
+      <end>1120.998</end>
+      <code>SPEED EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>25.824</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>11</ID>
+      <start>302.649</start>
+      <end>308.649</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.120</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>12</ID>
+      <start>441.139</start>
+      <end>447.139</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.321</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>13</ID>
+      <start>449.829</start>
+      <end>455.829</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.057</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>14</ID>
+      <start>477.989</start>
+      <end>483.989</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.663</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>15</ID>
+      <start>624.289</start>
+      <end>630.289</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.067</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>16</ID>
+      <start>688.199</start>
+      <end>694.199</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.462</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>17</ID>
+      <start>692.929</start>
+      <end>698.929</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.626</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>18</ID>
+      <start>926.349</start>
+      <end>932.349</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.406</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>19</ID>
+      <start>942.629</start>
+      <end>948.629</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.015</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>20</ID>
+      <start>962.649</start>
+      <end>968.649</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.815</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>21</ID>
+      <start>979.369</start>
+      <end>985.369</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.855</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>22</ID>
+      <start>1018.309</start>
+      <end>1024.309</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.356</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>23</ID>
+      <start>1176.928</start>
+      <end>1182.928</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.900</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>24</ID>
+      <start>1640.798</start>
+      <end>1646.798</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.593</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>25</ID>
+      <start>1692.938</start>
+      <end>1698.938</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.972</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>26</ID>
+      <start>1835.828</start>
+      <end>1841.828</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.579</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>27</ID>
+      <start>1851.448</start>
+      <end>1857.448</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.532</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>28</ID>
+      <start>1890.388</start>
+      <end>1896.388</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.336</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>29</ID>
+      <start>1942.968</start>
+      <end>1948.968</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.231</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>30</ID>
+      <start>2100.048</start>
+      <end>2106.048</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.514</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>31</ID>
+      <start>2124.248</start>
+      <end>2130.248</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.436</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>32</ID>
+      <start>2130.958</start>
+      <end>2136.958</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.844</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>33</ID>
+      <start>2151.307</start>
+      <end>2157.307</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.082</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>34</ID>
+      <start>2203.227</start>
+      <end>2209.227</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.526</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>35</ID>
+      <start>2256.687</start>
+      <end>2262.687</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.368</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>36</ID>
+      <start>2455.567</start>
+      <end>2461.567</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.500</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>37</ID>
+      <start>2486.037</start>
+      <end>2492.037</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.455</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>38</ID>
+      <start>2528.607</start>
+      <end>2534.607</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.998</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>39</ID>
+      <start>2654.117</start>
+      <end>2660.117</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.660</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>40</ID>
+      <start>2689.867</start>
+      <end>2695.867</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.923</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>41</ID>
+      <start>2749.157</start>
+      <end>2755.157</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.202</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>42</ID>
+      <start>2998.307</start>
+      <end>3004.307</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.394</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>43</ID>
+      <start>3002.377</start>
+      <end>3008.377</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.308</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>44</ID>
+      <start>3353.606</start>
+      <end>3359.606</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.753</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>45</ID>
+      <start>3357.896</start>
+      <end>3363.896</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.392</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>46</ID>
+      <start>3556.666</start>
+      <end>3562.666</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.856</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>47</ID>
+      <start>3614.086</start>
+      <end>3620.086</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.418</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>48</ID>
+      <start>3750.816</start>
+      <end>3756.816</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.285</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>49</ID>
+      <start>3830.016</start>
+      <end>3836.016</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.673</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>50</ID>
+      <start>3900.526</start>
+      <end>3906.526</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.186</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>51</ID>
+      <start>4200.826</start>
+      <end>4206.826</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.067</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>52</ID>
+      <start>4234.375</start>
+      <end>4240.375</end>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.505</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>53</ID>
+      <start>926.349</start>
+      <end>932.349</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.384</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>54</ID>
+      <start>942.849</start>
+      <end>948.849</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.461</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>55</ID>
+      <start>963.529</start>
+      <end>969.529</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.486</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>56</ID>
+      <start>979.699</start>
+      <end>985.699</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.843</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>57</ID>
+      <start>1018.529</start>
+      <end>1024.529</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.100</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>58</ID>
+      <start>1107.298</start>
+      <end>1113.298</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.413</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>59</ID>
+      <start>1520.128</start>
+      <end>1526.128</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.944</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>60</ID>
+      <start>1722.968</start>
+      <end>1728.968</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.423</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>61</ID>
+      <start>2953.537</start>
+      <end>2959.537</end>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.905</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>62</ID>
+      <start>627.809</start>
+      <end>633.809</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.971</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>63</ID>
+      <start>927.889</start>
+      <end>933.889</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.227</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>64</ID>
+      <start>944.279</start>
+      <end>950.279</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>4.285</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>65</ID>
+      <start>1023.699</start>
+      <end>1029.699</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.037</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>66</ID>
+      <start>1113.348</start>
+      <end>1119.348</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.739</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>67</ID>
+      <start>1186.168</start>
+      <end>1192.168</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.060</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>68</ID>
+      <start>1490.758</start>
+      <end>1496.758</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.631</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>69</ID>
+      <start>1997.528</start>
+      <end>2003.528</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.475</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>70</ID>
+      <start>2311.577</start>
+      <end>2317.577</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.568</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>71</ID>
+      <start>2324.667</start>
+      <end>2330.667</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.983</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>72</ID>
+      <start>2377.027</start>
+      <end>2383.027</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.849</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>73</ID>
+      <start>2439.837</start>
+      <end>2445.837</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>2.997</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>74</ID>
+      <start>2467.557</start>
+      <end>2473.557</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.563</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>75</ID>
+      <start>2655.107</start>
+      <end>2661.107</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.775</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>76</ID>
+      <start>3169.686</start>
+      <end>3175.686</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.739</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>77</ID>
+      <start>3334.906</start>
+      <end>3340.906</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.748</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>78</ID>
+      <start>3337.546</start>
+      <end>3343.546</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.321</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>79</ID>
+      <start>3537.856</start>
+      <end>3543.856</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.083</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>80</ID>
+      <start>3646.096</start>
+      <end>3652.096</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.053</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>81</ID>
+      <start>4222.495</start>
+      <end>4228.495</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.320</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>82</ID>
+      <start>4490.235</start>
+      <end>4496.235</end>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>3.470</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>83</ID>
+      <start>304.079</start>
+      <end>310.079</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.025</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>84</ID>
+      <start>451.369</start>
+      <end>457.369</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.163</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>85</ID>
+      <start>480.519</start>
+      <end>486.519</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.019</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>86</ID>
+      <start>483.709</start>
+      <end>489.709</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.443</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>87</ID>
+      <start>626.819</start>
+      <end>632.819</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.003</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>88</ID>
+      <start>689.959</start>
+      <end>695.959</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.612</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>89</ID>
+      <start>1022.269</start>
+      <end>1028.269</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.830</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>90</ID>
+      <start>1841.768</start>
+      <end>1847.768</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.104</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>91</ID>
+      <start>1945.718</start>
+      <end>1951.718</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.124</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>92</ID>
+      <start>2153.287</start>
+      <end>2159.287</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.565</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>93</ID>
+      <start>2206.637</start>
+      <end>2212.637</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.164</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>94</ID>
+      <start>2227.647</start>
+      <end>2233.647</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.028</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>95</ID>
+      <start>2255.037</start>
+      <end>2261.037</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.897</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>96</ID>
+      <start>2558.637</start>
+      <end>2564.637</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-5.017</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>97</ID>
+      <start>2695.367</start>
+      <end>2701.367</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.502</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>98</ID>
+      <start>3001.167</start>
+      <end>3007.167</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.917</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>99</ID>
+      <start>3258.126</start>
+      <end>3264.126</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.890</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>100</ID>
+      <start>3355.806</start>
+      <end>3361.806</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.075</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>101</ID>
+      <start>3362.736</start>
+      <end>3368.736</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.541</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>102</ID>
+      <start>3578.666</start>
+      <end>3584.666</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.439</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>103</ID>
+      <start>3795.256</start>
+      <end>3801.256</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.413</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>104</ID>
+      <start>3902.946</start>
+      <end>3908.946</end>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.086</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>105</ID>
+      <start>153.489</start>
+      <end>159.489</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.732</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>106</ID>
+      <start>966.169</start>
+      <end>972.169</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.969</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>107</ID>
+      <start>982.559</start>
+      <end>988.559</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.833</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>108</ID>
+      <start>1022.709</start>
+      <end>1028.709</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.352</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>109</ID>
+      <start>1111.808</start>
+      <end>1117.808</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.762</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>110</ID>
+      <start>1181.548</start>
+      <end>1187.548</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.064</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>111</ID>
+      <start>1721.648</start>
+      <end>1727.648</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.527</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>112</ID>
+      <start>1842.648</start>
+      <end>1848.648</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.357</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>113</ID>
+      <start>1887.528</start>
+      <end>1893.528</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.914</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>114</ID>
+      <start>1958.038</start>
+      <end>1964.038</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.186</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>115</ID>
+      <start>1963.978</start>
+      <end>1969.978</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.377</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>116</ID>
+      <start>1985.208</start>
+      <end>1991.208</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.405</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>117</ID>
+      <start>2237.107</start>
+      <end>2243.107</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.873</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>118</ID>
+      <start>2458.757</start>
+      <end>2464.757</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.340</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>119</ID>
+      <start>2498.357</start>
+      <end>2504.357</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.394</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>120</ID>
+      <start>2717.917</start>
+      <end>2723.917</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.470</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>121</ID>
+      <start>3562.056</start>
+      <end>3568.056</end>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.160</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>122</ID>
+      <start>393.179</start>
+      <end>399.179</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.510</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>123</ID>
+      <start>629.349</start>
+      <end>635.349</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.685</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>124</ID>
+      <start>910.069</start>
+      <end>916.069</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.713</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>125</ID>
+      <start>929.979</start>
+      <end>935.979</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.194</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>126</ID>
+      <start>946.479</start>
+      <end>952.479</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.689</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>127</ID>
+      <start>1027.109</start>
+      <end>1033.109</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.070</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>128</ID>
+      <start>1116.538</start>
+      <end>1122.538</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-5.042</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>129</ID>
+      <start>1189.688</start>
+      <end>1195.688</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.835</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>130</ID>
+      <start>1692.278</start>
+      <end>1698.278</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.876</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>131</ID>
+      <start>1866.628</start>
+      <end>1872.628</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.111</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>132</ID>
+      <start>1880.488</start>
+      <end>1886.488</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.556</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>133</ID>
+      <start>1904.688</start>
+      <end>1910.688</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.927</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>134</ID>
+      <start>1999.508</start>
+      <end>2005.508</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-2.863</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>135</ID>
+      <start>2114.457</start>
+      <end>2120.457</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.501</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>136</ID>
+      <start>2169.787</start>
+      <end>2175.787</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.530</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>137</ID>
+      <start>2379.887</start>
+      <end>2385.887</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.175</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>138</ID>
+      <start>2566.887</start>
+      <end>2572.887</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.748</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>139</ID>
+      <start>2904.587</start>
+      <end>2910.587</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.661</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>140</ID>
+      <start>3336.226</start>
+      <end>3342.226</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-4.153</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>141</ID>
+      <start>3737.836</start>
+      <end>3743.836</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.738</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>142</ID>
+      <start>4225.685</start>
+      <end>4231.685</end>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max acc</measure>
+        <text>-3.537</text>
+        <unit>m/s²</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>143</ID>
+      <start>257.689</start>
+      <end>260.989</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.255</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>144</ID>
+      <start>304.879</start>
+      <end>310.599</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.452</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>145</ID>
+      <start>442.159</start>
+      <end>445.789</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.790</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>146</ID>
+      <start>452.169</start>
+      <end>454.589</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.922</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>147</ID>
+      <start>480.439</start>
+      <end>486.929</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.388</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>148</ID>
+      <start>621.459</start>
+      <end>630.149</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.169</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>149</ID>
+      <start>645.109</start>
+      <end>648.189</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.485</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>150</ID>
+      <start>690.539</start>
+      <end>698.019</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.225</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>151</ID>
+      <start>795.039</start>
+      <end>797.789</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.865</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>152</ID>
+      <start>813.189</start>
+      <end>816.599</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.271</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>153</ID>
+      <start>823.639</start>
+      <end>826.499</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.927</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>154</ID>
+      <start>834.199</start>
+      <end>836.619</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.424</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>155</ID>
+      <start>846.739</start>
+      <end>848.719</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.513</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>156</ID>
+      <start>862.909</start>
+      <end>866.099</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.826</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>157</ID>
+      <start>878.529</start>
+      <end>882.709</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.291</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>158</ID>
+      <start>895.689</start>
+      <end>899.209</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.959</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>159</ID>
+      <start>909.659</start>
+      <end>913.069</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.812</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>160</ID>
+      <start>928.799</start>
+      <end>931.769</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.097</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>161</ID>
+      <start>945.079</start>
+      <end>948.159</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.501</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>162</ID>
+      <start>964.989</start>
+      <end>968.289</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.710</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>163</ID>
+      <start>981.599</start>
+      <end>984.459</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.835</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>164</ID>
+      <start>1020.649</start>
+      <end>1025.819</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>24.500</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>165</ID>
+      <start>1109.968</start>
+      <end>1114.808</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>23.474</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>166</ID>
+      <start>1179.488</start>
+      <end>1184.658</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>21.269</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>167</ID>
+      <start>1615.088</start>
+      <end>1621.358</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.826</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>168</ID>
+      <start>1642.478</start>
+      <end>1645.668</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.430</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>169</ID>
+      <start>1676.578</start>
+      <end>1678.998</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.178</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>170</ID>
+      <start>1693.738</start>
+      <end>1698.798</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.081</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>171</ID>
+      <start>1837.728</start>
+      <end>1844.988</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>22.141</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>172</ID>
+      <start>1850.928</start>
+      <end>1857.638</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>22.104</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>173</ID>
+      <start>1892.838</start>
+      <end>1898.228</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.472</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>174</ID>
+      <start>1912.198</start>
+      <end>1914.838</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.808</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>175</ID>
+      <start>1939.368</start>
+      <end>1943.768</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.966</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>176</ID>
+      <start>1945.308</start>
+      <end>1953.338</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>21.276</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>177</ID>
+      <start>1961.918</start>
+      <end>1965.328</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.891</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>178</ID>
+      <start>1993.488</start>
+      <end>1996.788</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.325</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>179</ID>
+      <start>2045.958</start>
+      <end>2050.248</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.188</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>180</ID>
+      <start>2062.568</start>
+      <end>2067.848</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.711</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>181</ID>
+      <start>2070.158</start>
+      <end>2076.868</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.478</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>182</ID>
+      <start>2097.988</start>
+      <end>2104.368</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.759</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>183</ID>
+      <start>2126.478</start>
+      <end>2131.318</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.897</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>184</ID>
+      <start>2133.188</start>
+      <end>2137.917</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.289</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>185</ID>
+      <start>2152.987</start>
+      <end>2156.837</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.319</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>186</ID>
+      <start>2204.687</start>
+      <end>2217.337</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.152</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>187</ID>
+      <start>2227.127</start>
+      <end>2231.197</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.108</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>188</ID>
+      <start>2253.967</start>
+      <end>2263.977</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.372</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>189</ID>
+      <start>2366.827</start>
+      <end>2378.487</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>22.407</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>190</ID>
+      <start>2404.887</start>
+      <end>2409.727</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.159</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>191</ID>
+      <start>2429.527</start>
+      <end>2434.147</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.918</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>192</ID>
+      <start>2436.897</start>
+      <end>2439.097</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.137</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>193</ID>
+      <start>2444.927</start>
+      <end>2448.337</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.237</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>194</ID>
+      <start>2457.797</start>
+      <end>2463.957</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>23.248</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>195</ID>
+      <start>2466.707</start>
+      <end>2470.337</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.543</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>196</ID>
+      <start>2492.337</start>
+      <end>2499.377</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.155</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>197</ID>
+      <start>2505.097</start>
+      <end>2507.957</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.408</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>198</ID>
+      <start>2511.807</start>
+      <end>2514.227</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.303</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>199</ID>
+      <start>2531.057</start>
+      <end>2537.437</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.347</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>200</ID>
+      <start>2557.347</start>
+      <end>2567.027</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>22.855</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>201</ID>
+      <start>2595.847</start>
+      <end>2601.237</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.197</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>202</ID>
+      <start>2611.027</start>
+      <end>2616.637</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.930</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>203</ID>
+      <start>2627.967</start>
+      <end>2632.367</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.489</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>204</ID>
+      <start>2656.347</start>
+      <end>2659.867</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>22.909</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>205</ID>
+      <start>2690.777</start>
+      <end>2701.117</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>26.670</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>206</ID>
+      <start>2747.647</start>
+      <end>2756.117</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.551</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>207</ID>
+      <start>2923.427</start>
+      <end>2932.887</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>21.474</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>208</ID>
+      <start>2958.517</start>
+      <end>2964.897</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.212</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>209</ID>
+      <start>3000.757</start>
+      <end>3009.777</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.776</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>210</ID>
+      <start>3035.737</start>
+      <end>3041.567</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.044</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>211</ID>
+      <start>3094.917</start>
+      <end>3102.507</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.589</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>212</ID>
+      <start>3128.687</start>
+      <end>3133.527</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>22.051</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>213</ID>
+      <start>3221.306</start>
+      <end>3225.596</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.901</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>214</ID>
+      <start>3252.546</start>
+      <end>3261.676</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>23.467</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>215</ID>
+      <start>3324.596</start>
+      <end>3329.326</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.123</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>216</ID>
+      <start>3355.726</start>
+      <end>3366.176</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.597</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>217</ID>
+      <start>3503.346</start>
+      <end>3506.316</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.545</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>218</ID>
+      <start>3512.696</start>
+      <end>3516.326</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>21.019</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>219</ID>
+      <start>3559.226</start>
+      <end>3563.846</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.602</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>220</ID>
+      <start>3571.656</start>
+      <end>3582.436</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.573</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>221</ID>
+      <start>3616.536</start>
+      <end>3624.786</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.822</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>222</ID>
+      <start>3665.486</start>
+      <end>3677.146</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>25.886</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>223</ID>
+      <start>3753.046</start>
+      <end>3758.766</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>21.810</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>224</ID>
+      <start>3793.526</start>
+      <end>3798.586</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.755</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>225</ID>
+      <start>3832.356</start>
+      <end>3838.626</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>23.113</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>226</ID>
+      <start>3869.096</start>
+      <end>3876.576</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>21.625</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>227</ID>
+      <start>3902.976</start>
+      <end>3906.166</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.834</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>228</ID>
+      <start>3951.376</start>
+      <end>3955.446</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>25.346</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>229</ID>
+      <start>4203.276</start>
+      <end>4207.676</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.040</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>230</ID>
+      <start>4236.935</start>
+      <end>4238.145</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>10.715</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>231</ID>
+      <start>4477.175</start>
+      <end>4480.255</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.659</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>232</ID>
+      <start>4581.235</start>
+      <end>4582.775</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.136</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>233</ID>
+      <start>4585.195</start>
+      <end>4586.625</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.359</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>234</ID>
+      <start>4696.735</start>
+      <end>4708.175</end>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.488</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>235</ID>
+      <start>153.189</start>
+      <end>156.819</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.345</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>236</ID>
+      <start>196.529</start>
+      <end>199.059</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.567</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>237</ID>
+      <start>428.519</start>
+      <end>431.269</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.861</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>238</ID>
+      <start>465.589</start>
+      <end>472.849</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.876</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>239</ID>
+      <start>657.649</start>
+      <end>664.579</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.629</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>240</ID>
+      <start>795.589</start>
+      <end>798.889</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.313</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>241</ID>
+      <start>862.579</start>
+      <end>867.199</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.416</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>242</ID>
+      <start>880.069</start>
+      <end>883.369</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.421</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>243</ID>
+      <start>895.689</start>
+      <end>899.869</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.746</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>244</ID>
+      <start>909.329</start>
+      <end>912.299</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.158</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>245</ID>
+      <start>928.799</start>
+      <end>931.879</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.120</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>246</ID>
+      <start>945.189</start>
+      <end>948.599</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.186</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>247</ID>
+      <start>965.979</start>
+      <end>969.499</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.739</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>248</ID>
+      <start>982.039</start>
+      <end>985.889</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.507</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>249</ID>
+      <start>1020.979</start>
+      <end>1026.259</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>27.126</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>250</ID>
+      <start>1109.858</start>
+      <end>1115.248</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>25.950</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>251</ID>
+      <start>1179.158</start>
+      <end>1184.878</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>23.364</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>252</ID>
+      <start>1522.578</start>
+      <end>1528.188</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.457</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>253</ID>
+      <start>1612.888</start>
+      <end>1620.038</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.269</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>254</ID>
+      <start>1671.078</start>
+      <end>1679.328</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.224</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>255</ID>
+      <start>1693.518</start>
+      <end>1698.028</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.134</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>256</ID>
+      <start>1721.348</start>
+      <end>1728.058</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.635</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>257</ID>
+      <start>1815.398</start>
+      <end>1817.818</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.790</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>258</ID>
+      <start>1832.778</start>
+      <end>1845.868</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.632</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>259</ID>
+      <start>1854.228</start>
+      <end>1861.158</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.247</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>260</ID>
+      <start>1870.948</start>
+      <end>1872.708</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.932</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>261</ID>
+      <start>1874.248</start>
+      <end>1878.978</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.435</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>262</ID>
+      <start>1886.568</start>
+      <end>1897.898</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.784</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>263</ID>
+      <start>1901.858</start>
+      <end>1903.728</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.186</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>264</ID>
+      <start>1935.408</start>
+      <end>1941.018</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.440</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>265</ID>
+      <start>1958.288</start>
+      <end>1967.198</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.460</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>266</ID>
+      <start>1973.798</start>
+      <end>1975.228</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.666</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>267</ID>
+      <start>1982.598</start>
+      <end>1996.238</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.012</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>268</ID>
+      <start>1997.888</start>
+      <end>2004.268</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.036</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>269</ID>
+      <start>2022.638</start>
+      <end>2030.558</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.825</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>270</ID>
+      <start>2032.758</start>
+      <end>2038.258</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.521</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>271</ID>
+      <start>2081.158</start>
+      <end>2088.528</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.540</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>272</ID>
+      <start>2094.908</start>
+      <end>2101.508</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.859</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>273</ID>
+      <start>2104.038</start>
+      <end>2106.788</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.752</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>274</ID>
+      <start>2131.207</start>
+      <end>2135.277</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.551</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>275</ID>
+      <start>2140.997</start>
+      <end>2148.367</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.306</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>276</ID>
+      <start>2168.497</start>
+      <end>2173.997</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.585</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>277</ID>
+      <start>2175.647</start>
+      <end>2178.727</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.971</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>278</ID>
+      <start>2188.407</start>
+      <end>2196.107</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.724</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>279</ID>
+      <start>2199.407</start>
+      <end>2203.147</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.059</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>280</ID>
+      <start>2224.377</start>
+      <end>2235.817</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.862</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>281</ID>
+      <start>2237.577</start>
+      <end>2240.327</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.244</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>282</ID>
+      <start>2344.277</start>
+      <end>2352.747</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>21.276</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>283</ID>
+      <start>2365.067</start>
+      <end>2387.617</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.482</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>284</ID>
+      <start>2405.327</start>
+      <end>2409.617</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.230</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>285</ID>
+      <start>2413.687</start>
+      <end>2418.747</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.005</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>286</ID>
+      <start>2437.777</start>
+      <end>2442.947</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.343</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>287</ID>
+      <start>2454.827</start>
+      <end>2462.197</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.647</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>288</ID>
+      <start>2495.857</start>
+      <end>2501.797</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>24.440</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>289</ID>
+      <start>2551.407</start>
+      <end>2557.127</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.381</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>290</ID>
+      <start>2595.297</start>
+      <end>2597.387</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.039</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>291</ID>
+      <start>2626.977</start>
+      <end>2629.617</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.560</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>292</ID>
+      <start>2671.967</start>
+      <end>2676.917</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.844</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>293</ID>
+      <start>2678.017</start>
+      <end>2683.517</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.586</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>294</ID>
+      <start>2689.237</start>
+      <end>2694.627</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.139</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>295</ID>
+      <start>2710.137</start>
+      <end>2724.877</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.259</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>296</ID>
+      <start>2728.727</start>
+      <end>2732.687</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.221</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>297</ID>
+      <start>2755.127</start>
+      <end>2757.657</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.899</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>298</ID>
+      <start>2922.877</start>
+      <end>2926.287</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.638</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>299</ID>
+      <start>2952.687</start>
+      <end>2959.507</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>21.559</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>300</ID>
+      <start>3217.456</start>
+      <end>3221.526</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.610</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>301</ID>
+      <start>3506.426</start>
+      <end>3515.116</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.752</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>302</ID>
+      <start>3557.796</start>
+      <end>3565.276</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.581</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>303</ID>
+      <start>3571.436</start>
+      <end>3579.686</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.767</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>304</ID>
+      <start>3614.776</start>
+      <end>3622.916</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.921</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>305</ID>
+      <start>3664.606</start>
+      <end>3668.126</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.181</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>306</ID>
+      <start>3749.636</start>
+      <end>3753.266</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.456</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>307</ID>
+      <start>3790.666</start>
+      <end>3794.626</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.691</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>308</ID>
+      <start>3832.026</start>
+      <end>3839.066</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.350</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>309</ID>
+      <start>3909.466</start>
+      <end>3916.396</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.953</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>310</ID>
+      <start>4410.295</start>
+      <end>4412.935</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.331</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>311</ID>
+      <start>4595.535</start>
+      <end>4599.165</end>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.177</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>312</ID>
+      <start>387.819</start>
+      <end>396.509</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.576</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>313</ID>
+      <start>627.509</start>
+      <end>632.679</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.273</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>314</ID>
+      <start>824.079</start>
+      <end>826.499</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.412</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>315</ID>
+      <start>844.759</start>
+      <end>849.489</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.605</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>316</ID>
+      <start>862.799</start>
+      <end>867.749</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.277</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>317</ID>
+      <start>879.079</start>
+      <end>884.029</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.078</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>318</ID>
+      <start>897.889</start>
+      <end>900.309</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.941</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>319</ID>
+      <start>909.989</start>
+      <end>913.289</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.080</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>320</ID>
+      <start>930.339</start>
+      <end>933.199</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.461</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>321</ID>
+      <start>946.729</start>
+      <end>949.699</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.220</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>322</ID>
+      <start>965.979</start>
+      <end>970.269</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.248</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>323</ID>
+      <start>982.149</start>
+      <end>985.779</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.136</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>324</ID>
+      <start>1025.269</start>
+      <end>1030.659</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>24.967</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>325</ID>
+      <start>1114.588</start>
+      <end>1120.088</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>25.824</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>326</ID>
+      <start>1187.188</start>
+      <end>1193.018</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>24.589</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>327</ID>
+      <start>1377.488</start>
+      <end>1379.358</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.287</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>328</ID>
+      <start>1425.888</start>
+      <end>1432.818</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.465</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>329</ID>
+      <start>1463.838</start>
+      <end>1470.988</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.550</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>330</ID>
+      <start>1493.098</start>
+      <end>1501.018</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.988</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>331</ID>
+      <start>1625.538</start>
+      <end>1628.838</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.760</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>332</ID>
+      <start>1691.868</start>
+      <end>1695.498</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.690</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>333</ID>
+      <start>1855.878</start>
+      <end>1861.818</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.109</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>334</ID>
+      <start>1866.548</start>
+      <end>1870.178</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.932</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>335</ID>
+      <start>1874.138</start>
+      <end>1879.418</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.317</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>336</ID>
+      <start>1880.518</start>
+      <end>1883.818</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.839</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>337</ID>
+      <start>1891.958</start>
+      <end>1897.238</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.486</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>338</ID>
+      <start>1900.428</start>
+      <end>1907.908</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.731</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>339</ID>
+      <start>1958.178</start>
+      <end>1965.328</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.119</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>340</ID>
+      <start>1966.758</start>
+      <end>1972.148</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.987</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>341</ID>
+      <start>1995.028</start>
+      <end>2003.278</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.721</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>342</ID>
+      <start>2006.798</start>
+      <end>2011.968</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.579</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>343</ID>
+      <start>2014.058</start>
+      <end>2017.028</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.327</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>344</ID>
+      <start>2021.208</start>
+      <end>2023.518</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.713</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>345</ID>
+      <start>2032.318</start>
+      <end>2034.738</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.943</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>346</ID>
+      <start>2055.638</start>
+      <end>2058.058</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.991</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>347</ID>
+      <start>2068.288</start>
+      <end>2072.688</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.127</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>348</ID>
+      <start>2111.737</start>
+      <end>2116.577</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>22.282</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>349</ID>
+      <start>2124.607</start>
+      <end>2128.237</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.643</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>350</ID>
+      <start>2141.327</start>
+      <end>2146.827</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.630</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>351</ID>
+      <start>2168.167</start>
+      <end>2173.117</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.446</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>352</ID>
+      <start>2188.407</start>
+      <end>2193.907</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.222</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>353</ID>
+      <start>2230.757</start>
+      <end>2239.777</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.505</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>354</ID>
+      <start>2241.207</start>
+      <end>2246.047</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.162</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>355</ID>
+      <start>2248.247</start>
+      <end>2251.547</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.040</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>356</ID>
+      <start>2313.257</start>
+      <end>2316.117</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.027</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>357</ID>
+      <start>2327.007</start>
+      <end>2329.647</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.569</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>358</ID>
+      <start>2366.387</start>
+      <end>2369.137</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.234</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>359</ID>
+      <start>2377.387</start>
+      <end>2383.657</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>24.875</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>360</ID>
+      <start>2414.787</start>
+      <end>2422.597</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.861</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>361</ID>
+      <start>2441.957</start>
+      <end>2449.327</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>23.007</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>362</ID>
+      <start>2470.007</start>
+      <end>2472.647</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.957</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>363</ID>
+      <start>2475.177</start>
+      <end>2480.347</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.624</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>364</ID>
+      <start>2503.117</start>
+      <end>2508.177</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.248</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>365</ID>
+      <start>2514.667</start>
+      <end>2522.477</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.847</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>366</ID>
+      <start>2530.067</start>
+      <end>2539.417</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>23.819</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>367</ID>
+      <start>2540.957</start>
+      <end>2543.927</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.880</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>368</ID>
+      <start>2564.827</start>
+      <end>2577.147</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.980</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>369</ID>
+      <start>2589.247</start>
+      <end>2591.447</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.721</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>370</ID>
+      <start>2595.187</start>
+      <end>2600.027</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.891</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>371</ID>
+      <start>2655.247</start>
+      <end>2659.867</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.814</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>372</ID>
+      <start>2672.407</start>
+      <end>2676.367</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.467</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>373</ID>
+      <start>2755.567</start>
+      <end>2758.977</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>17.774</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>374</ID>
+      <start>2902.747</start>
+      <end>2907.917</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>12.812</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>375</ID>
+      <start>2940.917</start>
+      <end>2946.857</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.335</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>376</ID>
+      <start>2977.987</start>
+      <end>2982.717</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.504</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>377</ID>
+      <start>3060.267</start>
+      <end>3064.557</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.087</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>378</ID>
+      <start>3114.607</start>
+      <end>3118.237</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.673</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>379</ID>
+      <start>3172.136</start>
+      <end>3174.226</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.848</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>380</ID>
+      <start>3196.006</start>
+      <end>3200.846</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.443</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>381</ID>
+      <start>3203.266</start>
+      <end>3207.116</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.195</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>382</ID>
+      <start>3235.276</start>
+      <end>3239.676</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.180</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>383</ID>
+      <start>3305.566</start>
+      <end>3308.866</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.087</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>384</ID>
+      <start>3337.246</start>
+      <end>3344.506</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.325</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>385</ID>
+      <start>3487.066</start>
+      <end>3494.436</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.721</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>386</ID>
+      <start>3540.196</start>
+      <end>3545.146</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.790</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>387</ID>
+      <start>3600.366</start>
+      <end>3609.166</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.641</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>388</ID>
+      <start>3645.576</start>
+      <end>3652.726</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.567</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>389</ID>
+      <start>3735.226</start>
+      <end>3741.386</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>19.960</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>390</ID>
+      <start>3772.736</start>
+      <end>3776.366</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>15.175</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>391</ID>
+      <start>3816.846</start>
+      <end>3823.336</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>20.387</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>392</ID>
+      <start>3854.356</start>
+      <end>3858.316</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.802</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>393</ID>
+      <start>3895.166</start>
+      <end>3903.966</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>18.714</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>394</ID>
+      <start>3934.656</start>
+      <end>3941.696</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.810</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>395</ID>
+      <start>4133.646</start>
+      <end>4137.606</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>16.076</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>396</ID>
+      <start>4187.326</start>
+      <end>4190.516</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>14.275</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>397</ID>
+      <start>4224.725</start>
+      <end>4229.235</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>24.832</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>398</ID>
+      <start>4492.685</start>
+      <end>4494.115</end>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <label>
+        <measure>max speed</measure>
+        <text>13.553</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>399</ID>
+      <start>265.430</start>
+      <end>265.650</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>6.727</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>400</ID>
+      <start>403.920</start>
+      <end>404.140</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>6.356</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>401</ID>
+      <start>412.500</start>
+      <end>413.160</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.159</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>402</ID>
+      <start>440.770</start>
+      <end>441.100</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>3.821</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>403</ID>
+      <start>650.869</start>
+      <end>651.859</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.356</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>404</ID>
+      <start>655.709</start>
+      <end>656.149</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.290</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>405</ID>
+      <start>889.019</start>
+      <end>889.789</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>3.779</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>406</ID>
+      <start>905.409</start>
+      <end>906.069</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.190</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>407</ID>
+      <start>925.319</start>
+      <end>926.199</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.620</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>408</ID>
+      <start>942.039</start>
+      <end>942.259</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.375</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>409</ID>
+      <start>980.759</start>
+      <end>981.529</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>1.436</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>410</ID>
+      <start>983.179</start>
+      <end>983.289</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>22.478</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>411</ID>
+      <start>1071.729</start>
+      <end>1071.949</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>15.417</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>412</ID>
+      <start>1139.819</start>
+      <end>1141.139</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.926</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>413</ID>
+      <start>1603.578</start>
+      <end>1604.128</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.197</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>414</ID>
+      <start>1798.608</start>
+      <end>1799.268</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.796</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>415</ID>
+      <start>1814.118</start>
+      <end>1814.998</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>3.963</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>416</ID>
+      <start>1853.058</start>
+      <end>1853.498</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>2.828</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>417</ID>
+      <start>1905.748</start>
+      <end>1906.078</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.010</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>418</ID>
+      <start>1911.358</start>
+      <end>1911.468</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>18.261</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>419</ID>
+      <start>1961.848</start>
+      <end>1962.068</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.119</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>420</ID>
+      <start>2062.828</start>
+      <end>2063.378</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.604</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>421</ID>
+      <start>2086.808</start>
+      <end>2087.688</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.866</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>422</ID>
+      <start>2114.418</start>
+      <end>2114.528</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>13.295</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>423</ID>
+      <start>2166.008</start>
+      <end>2168.208</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.110</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>424</ID>
+      <start>2219.358</start>
+      <end>2220.018</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.186</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>425</ID>
+      <start>2418.348</start>
+      <end>2419.448</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.821</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>426</ID>
+      <start>2448.818</start>
+      <end>2449.148</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.970</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>427</ID>
+      <start>2491.388</start>
+      <end>2491.608</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.363</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>428</ID>
+      <start>2571.468</start>
+      <end>2571.688</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.178</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>429</ID>
+      <start>2588.298</start>
+      <end>2588.518</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.098</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>430</ID>
+      <start>2616.897</start>
+      <end>2617.448</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.493</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>431</ID>
+      <start>2652.537</start>
+      <end>2653.307</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.541</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>432</ID>
+      <start>2657.047</start>
+      <end>2657.268</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>23.451</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>433</ID>
+      <start>2711.827</start>
+      <end>2712.597</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>6.967</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>434</ID>
+      <start>2961.087</start>
+      <end>2961.417</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>6.088</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>435</ID>
+      <start>2965.267</start>
+      <end>2965.597</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.708</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>436</ID>
+      <start>3057.227</start>
+      <end>3057.337</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>19.967</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>437</ID>
+      <start>3175.807</start>
+      <end>3176.027</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.658</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>438</ID>
+      <start>3316.167</start>
+      <end>3317.157</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.577</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>439</ID>
+      <start>3320.677</start>
+      <end>3323.097</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.629</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>440</ID>
+      <start>3519.447</start>
+      <end>3519.777</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.235</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>441</ID>
+      <start>3576.757</start>
+      <end>3577.527</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>3.803</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>442</ID>
+      <start>3628.896</start>
+      <end>3629.116</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.417</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>443</ID>
+      <start>3632.527</start>
+      <end>3633.737</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>17.402</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>444</ID>
+      <start>3713.707</start>
+      <end>3714.366</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.684</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>445</ID>
+      <start>3792.686</start>
+      <end>3793.346</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.858</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>446</ID>
+      <start>3796.316</start>
+      <end>3796.866</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>15.245</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>447</ID>
+      <start>3863.196</start>
+      <end>3863.636</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>3.100</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>448</ID>
+      <start>3913.356</start>
+      <end>3914.346</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>17.306</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>449</ID>
+      <start>4163.496</start>
+      <end>4163.826</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.139</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>450</ID>
+      <start>4197.156</start>
+      <end>4197.486</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>3.260</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>451</ID>
+      <start>4517.806</start>
+      <end>4518.026</end>
+      <code>BURST - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.098</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>452</ID>
+      <start>911.129</start>
+      <end>911.789</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.872</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>453</ID>
+      <start>927.519</start>
+      <end>928.179</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.766</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>454</ID>
+      <start>948.309</start>
+      <end>948.749</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.207</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>455</ID>
+      <start>1003.309</start>
+      <end>1003.639</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.632</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>456</ID>
+      <start>1005.619</start>
+      <end>1006.059</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>21.929</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>457</ID>
+      <start>1092.079</start>
+      <end>1094.939</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.097</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>458</ID>
+      <start>1163.139</start>
+      <end>1163.249</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>15.880</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>459</ID>
+      <start>1505.019</start>
+      <end>1505.239</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.249</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>460</ID>
+      <start>1707.638</start>
+      <end>1707.968</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.442</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>461</ID>
+      <start>1917.738</start>
+      <end>1917.958</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.769</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>462</ID>
+      <start>2481.268</start>
+      <end>2481.818</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>19.440</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>463</ID>
+      <start>2704.787</start>
+      <end>2705.007</end>
+      <code>BURST - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.954</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>464</ID>
+      <start>625.679</start>
+      <end>626.009</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>2.680</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>465</ID>
+      <start>630.629</start>
+      <end>631.069</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.462</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>466</ID>
+      <start>930.599</start>
+      <end>931.369</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.482</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>467</ID>
+      <start>946.989</start>
+      <end>947.759</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.458</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>468</ID>
+      <start>1025.639</start>
+      <end>1028.059</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.643</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>469</ID>
+      <start>1114.849</start>
+      <end>1117.819</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>2.481</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>470</ID>
+      <start>1189.099</start>
+      <end>1190.309</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>14.067</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>471</ID>
+      <start>1493.579</start>
+      <end>1494.129</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>7.842</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>472</ID>
+      <start>2000.348</start>
+      <end>2000.898</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.078</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>473</ID>
+      <start>2314.398</start>
+      <end>2314.728</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.202</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>474</ID>
+      <start>2327.378</start>
+      <end>2328.038</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.257</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>475</ID>
+      <start>2379.848</start>
+      <end>2381.168</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.740</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>476</ID>
+      <start>2442.878</start>
+      <end>2443.318</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>14.358</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>477</ID>
+      <start>2470.488</start>
+      <end>2470.818</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.676</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>478</ID>
+      <start>2658.038</start>
+      <end>2658.587</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>11.769</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>479</ID>
+      <start>3172.507</start>
+      <end>3172.837</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.395</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>480</ID>
+      <start>3337.727</start>
+      <end>3338.167</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>6.408</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>481</ID>
+      <start>3340.367</start>
+      <end>3340.697</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>6.744</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>482</ID>
+      <start>3492.497</start>
+      <end>3492.717</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>13.216</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>483</ID>
+      <start>4225.096</start>
+      <end>4226.966</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>4.746</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>484</ID>
+      <start>4493.056</start>
+      <end>4493.276</end>
+      <code>BURST - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>5.753</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>485</ID>
+      <start>266.970</start>
+      <end>267.300</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>10.635</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>486</ID>
+      <start>405.460</start>
+      <end>405.680</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.488</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>487</ID>
+      <start>446.600</start>
+      <end>446.820</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.289</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>488</ID>
+      <start>589.489</start>
+      <end>590.039</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>15.245</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>489</ID>
+      <start>652.629</start>
+      <end>653.069</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>16.487</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>490</ID>
+      <start>984.609</start>
+      <end>984.939</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>19.074</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>491</ID>
+      <start>1800.038</start>
+      <end>1800.368</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>17.382</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>492</ID>
+      <start>1803.228</start>
+      <end>1803.338</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>19.192</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>493</ID>
+      <start>1816.978</start>
+      <end>1817.418</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>19.799</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>494</ID>
+      <start>2115.958</start>
+      <end>2116.618</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>17.370</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>495</ID>
+      <start>2168.758</start>
+      <end>2169.968</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>26.000</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>496</ID>
+      <start>2190.428</start>
+      <end>2190.978</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>16.364</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>497</ID>
+      <start>2217.818</start>
+      <end>2218.258</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>12.920</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>498</ID>
+      <start>2453.878</start>
+      <end>2453.988</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>17.099</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>499</ID>
+      <start>2521.198</start>
+      <end>2521.858</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>21.885</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>500</ID>
+      <start>2619.758</start>
+      <end>2620.087</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>21.693</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>501</ID>
+      <start>2657.597</start>
+      <end>2658.587</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>26.056</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>502</ID>
+      <start>2710.397</start>
+      <end>2710.617</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>10.052</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>503</ID>
+      <start>3059.427</start>
+      <end>3060.197</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>26.767</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>504</ID>
+      <start>3220.247</start>
+      <end>3220.907</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>21.166</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>505</ID>
+      <start>3318.367</start>
+      <end>3319.247</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>17.946</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>506</ID>
+      <start>3323.537</start>
+      <end>3326.177</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>27.070</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>507</ID>
+      <start>3540.567</start>
+      <end>3541.997</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>26.175</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>508</ID>
+      <start>3635.606</start>
+      <end>3636.156</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>21.541</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>509</ID>
+      <start>3757.927</start>
+      <end>3758.476</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>15.005</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>510</ID>
+      <start>3865.836</start>
+      <end>3866.056</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.677</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>511</ID>
+      <start>3915.336</start>
+      <end>3915.446</end>
+      <code>BRAKE - 01 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>23.603</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>512</ID>
+      <start>138.270</start>
+      <end>138.710</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>12.918</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>513</ID>
+      <start>230.010</start>
+      <end>230.230</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.360</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>514</ID>
+      <start>1006.389</start>
+      <end>1008.039</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>25.902</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>515</ID>
+      <start>1095.709</start>
+      <end>1097.029</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>24.234</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>516</ID>
+      <start>1165.559</start>
+      <end>1166.659</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>20.195</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>517</ID>
+      <start>1655.168</start>
+      <end>1655.388</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.150</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>518</ID>
+      <start>1706.538</start>
+      <end>1706.868</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.332</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>519</ID>
+      <start>1827.538</start>
+      <end>1827.758</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.061</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>520</ID>
+      <start>1942.708</start>
+      <end>1943.258</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>14.814</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>521</ID>
+      <start>1948.868</start>
+      <end>1949.088</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.029</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>522</ID>
+      <start>1970.208</start>
+      <end>1970.428</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.093</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>523</ID>
+      <start>2365.438</start>
+      <end>2365.548</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>16.316</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>524</ID>
+      <start>2443.538</start>
+      <end>2443.758</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>15.589</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>525</ID>
+      <start>2482.698</start>
+      <end>2483.468</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>22.372</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>526</ID>
+      <start>2658.587</start>
+      <end>2658.807</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>14.214</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>527</ID>
+      <start>2702.587</start>
+      <end>2703.137</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>15.980</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>528</ID>
+      <start>3543.647</start>
+      <end>3543.757</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.476</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>529</ID>
+      <start>3546.947</start>
+      <end>3547.167</end>
+      <code>BRAKE - 02 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>8.773</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>530</ID>
+      <start>395.890</start>
+      <end>396.440</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>14.353</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>531</ID>
+      <start>632.279</start>
+      <end>632.609</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.759</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>532</ID>
+      <start>867.569</start>
+      <end>867.679</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.109</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>533</ID>
+      <start>933.019</start>
+      <end>933.129</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>10.189</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>534</ID>
+      <start>1029.489</start>
+      <end>1030.039</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>19.380</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>535</ID>
+      <start>1118.809</start>
+      <end>1120.019</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>24.510</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>536</ID>
+      <start>1869.228</start>
+      <end>1870.108</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>17.666</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>537</ID>
+      <start>1882.978</start>
+      <end>1883.748</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>17.726</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>538</ID>
+      <start>2117.388</start>
+      <end>2117.718</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.964</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>539</ID>
+      <start>2172.718</start>
+      <end>2173.048</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>10.147</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>540</ID>
+      <start>2382.158</start>
+      <end>2383.038</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>23.339</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>541</ID>
+      <start>2543.638</start>
+      <end>2543.748</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.468</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>542</ID>
+      <start>2569.707</start>
+      <end>2570.148</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>9.980</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>543</ID>
+      <start>2659.467</start>
+      <end>2659.687</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>18.042</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>544</ID>
+      <start>2907.517</start>
+      <end>2908.067</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>7.830</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>545</ID>
+      <start>3339.047</start>
+      <end>3339.487</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>13.200</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>546</ID>
+      <start>3740.546</start>
+      <end>3741.207</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>16.907</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>547</ID>
+      <start>4228.176</start>
+      <end>4228.946</end>
+      <code>BRAKE - 03 PLAYER</code>
+      <label>
+        <measure>starting speed</measure>
+        <text>23.331</text>
+        <unit>m/s</unit>
+      </label>
+    </instance>
+  </ALL_INSTANCES>
+  <ROWS>
+    <row>
+      <code>SPEED EVENT - 01 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>SPEED EVENT - 02 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>SPEED EVENT - 03 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>ACC EVENT - 01 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>ACC EVENT - 02 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>ACC EVENT - 03 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>DEC EVENT - 01 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>DEC EVENT - 02 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>DEC EVENT - 03 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>POWER EVENT - 01 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>POWER EVENT - 02 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>POWER EVENT - 03 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>BURST - 01 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>BURST - 02 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>BURST - 03 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>BRAKE - 01 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>BRAKE - 02 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+  <ROWS>
+    <row>
+      <code>BRAKE - 03 PLAYER</code>
+      <r>57000</r>
+      <g>57000</g>
+      <b>57000</b>
+    </row>
+  </ROWS>
+</file>
